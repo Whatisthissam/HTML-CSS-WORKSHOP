@@ -1,0 +1,48 @@
+.section {
+    width: 90%;
+    border: 3px solid black;
+    display: flex;
+    margin-left: 70px;
+    border-radius: 10px;
+}
+
+.productinfo{
+    margin:30px;
+
+}
+
+.productinfo h3{
+    color: rgb(6, 196, 6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.productinfo h1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.productinfo p{
+    color:grey;
+    font-size: 25px;
+}
+
+.productinfo b{
+
+    font-size: 25px;
+
+}
+
+.productinfo strike{
+    color:grey;
+    margin-left:10px;
+    font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
